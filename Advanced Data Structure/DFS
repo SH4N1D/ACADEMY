@@ -8,7 +8,7 @@ void dfs(int adj[MAX][MAX], int V, int s, bool visited[MAX]) {
     printf("%d ", s);
     visited[s] = true;
 
-    for (i = 0; i < V; i++) {
+    for (i = 0; i < =V; i++) {
         if (adj[s][i] && !visited[i]) {
             dfs(adj, V, i, visited);
         }
