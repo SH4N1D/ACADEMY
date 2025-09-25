@@ -1,3 +1,3 @@
 Output:
 
-![](./one.png)
+![](./IMG/one.png)
