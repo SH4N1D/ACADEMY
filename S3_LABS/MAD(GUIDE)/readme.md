@@ -1,3 +1,6 @@
+Structure of java Code :- [Java Code Structure](./Structure.java)
+
+
 1.Design a Login Form with username and password using LinearLayout and toast valid credentials.[Code](./Login.java)
 
 2. Write a program that demonstrates Activity Lifecycle.[Code](./Activity%20life%20Cycle.java)
