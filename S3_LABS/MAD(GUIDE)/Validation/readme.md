@@ -1,3 +1,0 @@
-Output:
-
-![](./IMG/one.png)
