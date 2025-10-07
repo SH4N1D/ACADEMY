@@ -1,6 +1,6 @@
 1.Design a Login Form with username and password using LinearLayout and toast valid credentials.[Code](./Login.java)
 
-2. Write a program that demonstrates Activity Lifecycle.[Code](./Activity%20life%20cycle.java)
+2. Write a program that demonstrates Activity Lifecycle.[Code](./Activity%20life%20Cycle.java)
 
 3. Implementing basic arithmetic operations of a simple calculator.[Code](./Calculator.java)
 
