@@ -1,5 +1,6 @@
 Structure of java Code :- [Java Code Structure](./Structure.java)
 
+### Questions 
 
 1.Design a Login Form with username and password using LinearLayout and toast valid credentials.[Code](./Login.java)
 
@@ -10,8 +11,6 @@ Structure of java Code :- [Java Code Structure](./Structure.java)
 2. Design a simple Calculator using GridLayout and Cascaded LinearLayout.[Code](./Calculator.java)
 
 4. Develop an application that toggles image using FrameLayout.[Code](./Toggle.java)
-
-Course Outcome 3(CO3):
 
 2. Implement Intent to navigate between multiple activities.[Code](./Intent.java)
 
